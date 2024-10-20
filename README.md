@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hello, I'm Denis!  
+- 👋 Hi, I'm Denis!  
 - 👀 I'm passionate about programming and mathematics.
 - 🌱 Currently, I'm a beginner learning Python and just starting to dive into C#.
 
